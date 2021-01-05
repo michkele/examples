@@ -1,0 +1,12 @@
+{
+  "boilerplate.components.Footer.author.message": "קוד לראיון זה שנכתב על ידי {author}.",
+  "boilerplate.components.Footer.license.message": "פרויקט זה מורשה תחת רישיון MIT.",
+  "boilerplate.components.Header.home": "בית",
+  "boilerplate.containers.HomePage.start_project.header": "התחל את פרויקט התגובה הבא שלך תוך שניות",
+  "boilerplate.containers.HomePage.tryme.atPrefix": "@",
+  "boilerplate.containers.HomePage.tryme.header": "נסה אותי!",
+  "boilerplate.containers.HomePage.tryme.message": "הראה מאגרי Github מאת",
+  "boilerplate.containers.LocaleToggle.de": "הוא",
+  "boilerplate.containers.LocaleToggle.en": "en",
+  "boilerplate.containers.NotFoundPage.header": "הדף לא נמצא."
+}
